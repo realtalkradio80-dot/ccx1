@@ -1,0 +1,5 @@
+{
+  "name": "Copy of WinTube Downloader",
+  "description": "A web-based application that simulates a Windows desktop environment for downloading YouTube videos and converting them to MP3.",
+  "requestFramePermissions": []
+}
